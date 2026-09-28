@@ -1,30 +1,30 @@
-# Final-Project-Template
+Arm Injuries in Baseball
 <!-- Edit the title above with your project title -->
 
 ## Project Overview
 
 ## Self Assessment and Reflection
 
-<!-- Edit the following section with your self assessment and reflection -->
+I need to look through my data sources thoroughly.
 
 ### Self Assessment
 <!-- Replace the (...) with your score -->
 
 | Category          | Score    |
 | ----------------- | -------- |
-| **Setup**         | ... / 10 |
-| **Execution**     | ... / 20 |
-| **Documentation** | ... / 10 |
-| **Presentation**  | ... / 30 |
-| **Total**         | ... / 70 |
+| **Setup**         |8 / 10 |
+| **Execution**     | 8 / 20 |
+| **Documentation** | 8 / 10 |
+| **Presentation**  | 8 / 30 |
+| **Total**         | 24 / 70 |
 
 ### Reflection
 <!-- Edit the following section with your reflection -->
 
-#### What went well?
-#### What did not go well?
-#### What did you learn?
-#### What would you do differently next time?
+#### What went well? Coming up with the idea
+#### What did not go well? 
+#### What did you learn? How to use some new data sources
+#### What would you do differently next time? 
 
 ---
 
